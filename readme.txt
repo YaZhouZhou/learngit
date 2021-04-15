@@ -1,5 +1,2 @@
 Git is a distributed version control system.
-Git is free software.	dddddd
-Git has a mutable index called stage.
-cat readme.txt	
-laljaljflasjd
+dddddddd
